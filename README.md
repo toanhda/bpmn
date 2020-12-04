@@ -97,4 +97,3 @@ https://docs.temporal.io/docs/java-run-your-first-app/
 https://viblo.asia/p/tim-hieu-ve-mo-hinh-quy-trinh-nghiep-vu-bpmnphan-1-oOVlYMNrl8W
 
 https://thinhnotes.com/chuyen-nghe-ba/giai-ngo-cac-ky-hieu-bpmn/
-# bpmn
