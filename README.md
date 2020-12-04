@@ -7,9 +7,8 @@ Các câu hỏi cần giải quyết
 - [x] Tác dụng của nó là gì?
 - [x] Các thành phần trong BPMN
 - [x] Các platform hiện tại
-- So sánh cơ bản các platform
-- Chọn 1 và lý do tại sao?
-- platform giaỉ quyết điều gì?
+- [x] Platform giải quyết điều gì?
+- Áp dụng vào fabo như thế nào?
 
 
 ## BPMN là gì?
